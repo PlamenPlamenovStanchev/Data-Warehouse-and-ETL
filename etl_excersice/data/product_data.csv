@@ -1,0 +1,33 @@
+product_id,product_name,category,price
+3001,Smartphone,Electronics,670
+3002,Laptop,Electronics,404
+3003,Tablet,Electronics,406
+3004,Wireless Headphones,Electronics,550
+3005,Smartwatch,Electronics,265
+3006,Gaming Console,Electronics,568
+3007,Monitor,Electronics,466
+3008,Bluetooth Speaker,Electronics,886
+3009,Men's Jacket,Clothing,125
+3010,Women's Dress,Clothing,83
+3011,Running Shoes,Clothing,273
+3012,Winter Coat,Clothing,413
+3013,Casual T-shirt,Clothing,354
+3014,Jeans,Clothing,688
+3015,Sweater,Clothing,212
+3016,Sports Cap,Clothing,690
+3017,Sofa,Home,110
+3018,Dining Table,Home,566
+3019,LED Lamp,Home,554
+3020,Vacuum Cleaner,Home,223
+3021,Coffee Maker,Home,620
+3022,Air Purifier,Home,415
+3023,Microwave Oven,Home,188
+3024,Wall Clock,Home,998
+3025,Python Programming,Books,216
+3026,Data Science Guide,Books,352
+3027,Artificial Intelligence,Books,970
+3028,Marketing Strategies,Books,261
+3029,Fiction Novel,Books,966
+3030,Biography,Books,562
+3031,Self-Help Book,Books,207
+3032,Mystery Thriller,Books,379
