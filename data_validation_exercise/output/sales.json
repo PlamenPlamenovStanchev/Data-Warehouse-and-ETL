@@ -1,0 +1,10 @@
+{"order_id":1,"customer_id":1001,"amount":491.36,"quantity":8,"order_date":null,"total_revenue":3930.88}
+{"order_id":2,"customer_id":1012,"amount":136.0,"quantity":6,"order_date":null,"total_revenue":816.0}
+{"order_id":3,"customer_id":1019,"amount":416.07,"quantity":2,"order_date":null,"total_revenue":832.14}
+{"order_id":4,"customer_id":1007,"amount":254.23,"quantity":2,"order_date":null,"total_revenue":508.46}
+{"order_id":5,"customer_id":1014,"amount":41.97,"quantity":7,"order_date":null,"total_revenue":293.79}
+{"order_id":6,"customer_id":1013,"amount":370.53,"quantity":1,"order_date":null,"total_revenue":370.53}
+{"order_id":7,"customer_id":1004,"amount":205.92,"quantity":6,"order_date":null,"total_revenue":1235.52}
+{"order_id":8,"customer_id":1019,"amount":85.52,"quantity":2,"order_date":null,"total_revenue":171.04}
+{"order_id":9,"customer_id":1007,"amount":497.44,"quantity":4,"order_date":null,"total_revenue":1989.76}
+{"order_id":10,"customer_id":1000,"amount":474.39,"quantity":1,"order_date":null,"total_revenue":474.39}

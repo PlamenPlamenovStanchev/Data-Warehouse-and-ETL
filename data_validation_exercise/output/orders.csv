@@ -1,0 +1,7 @@
+product,quantity,price,order_id,customer_id
+Widget A,2,9.99,201,101
+Widget B,1,19.99,201,101
+Widget A,1,9.99,202,102
+Widget C,3,4.99,202,102
+Widget B,2,19.99,203,103
+Widget D,1,29.99,203,103
