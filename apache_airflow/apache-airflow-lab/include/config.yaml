@@ -1,0 +1,16 @@
+aws_conn_id: aws_conn_id
+
+s3:
+bucket: etl-and-data-warehouse
+folder: apachi-airflow/aggregated_sales_large.csv
+
+snowflake:
+conn_id: my_snowflake_conn
+account: LPOGPJN-XR35525
+warehouse: COMPUTE_WH
+database: SALES_DATA_DB
+schema: PUBLIC
+table: Sales_summary
+
+
+
