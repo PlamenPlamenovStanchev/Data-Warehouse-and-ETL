@@ -1,0 +1,7 @@
+aws_conn_id:  aws_conn_id
+
+s3:
+    bucket: etl-and-data-warehouse
+    folder: exam-prep/
+    output_folder: Output
+    analytics_folder: Analytics
